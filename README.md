@@ -19,12 +19,12 @@
 
 The results are the average of 10 runs.
 
--- XML: 541 ms.
--- Java: 380 ms.
+    - XML: 541 ms.
+    - Java: 380 ms.
 
 - LinearLayout (Vertical) with 5000 TextViews:
 
 The results are the average of 5 runs.
 
--- XML: 3928 ms.
--- Java: 2908 ms.
+    - XML: 3928 ms.
+    - Java: 2908 ms.
