@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     linearLayout.setLayoutParams(new ViewGroup.LayoutParams(MATCH_PARENT, MATCH_PARENT));
     linearLayout.setOrientation(VERTICAL);
 
-    for (int i = 0; i < 500; i++) {
+    for (int i = 0; i < 5000; i++) {
       TextView textView = new TextView(this);
       textView.setText("Hello World!");
       textView.setLayoutParams(new LinearLayout.LayoutParams(WRAP_CONTENT, WRAP_CONTENT));
